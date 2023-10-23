@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gungorcaglar
-- 👀 I’m interested in Web3
-- 🌱 I’m currently learning Web3
-- 💞️ I’m looking to collaborate on Web3
+- 👀 I’m interested in Blockchain, Web3 and Defi
+- 🌱 I’m currently learning Rust, Python
 - 📫 How to reach me gungorcaglar@hotmail.com.tr
 
 <!---
